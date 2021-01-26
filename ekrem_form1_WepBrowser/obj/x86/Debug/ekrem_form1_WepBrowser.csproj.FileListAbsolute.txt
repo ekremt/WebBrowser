@@ -1,0 +1,17 @@
+c:\users\ogr7\documents\visual studio 2010\Projects\ekrem_form1_WepBrowser\ekrem_form1_WepBrowser\bin\Debug\ekrem_form1_WepBrowser.exe
+c:\users\ogr7\documents\visual studio 2010\Projects\ekrem_form1_WepBrowser\ekrem_form1_WepBrowser\bin\Debug\ekrem_form1_WepBrowser.pdb
+c:\users\ogr7\documents\visual studio 2010\Projects\ekrem_form1_WepBrowser\ekrem_form1_WepBrowser\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ogr7\documents\visual studio 2010\Projects\ekrem_form1_WepBrowser\ekrem_form1_WepBrowser\obj\x86\Debug\ekrem_form1_WepBrowser.Form1.resources
+c:\users\ogr7\documents\visual studio 2010\Projects\ekrem_form1_WepBrowser\ekrem_form1_WepBrowser\obj\x86\Debug\ekrem_form1_WepBrowser.Properties.Resources.resources
+c:\users\ogr7\documents\visual studio 2010\Projects\ekrem_form1_WepBrowser\ekrem_form1_WepBrowser\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ogr7\documents\visual studio 2010\Projects\ekrem_form1_WepBrowser\ekrem_form1_WepBrowser\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ogr7\documents\visual studio 2010\Projects\ekrem_form1_WepBrowser\ekrem_form1_WepBrowser\obj\x86\Debug\ekrem_form1_WepBrowser.exe
+c:\users\ogr7\documents\visual studio 2010\Projects\ekrem_form1_WepBrowser\ekrem_form1_WepBrowser\obj\x86\Debug\ekrem_form1_WepBrowser.pdb
+D:\FORM\ekrem_form1_WepBrowser\ekrem_form1_WepBrowser\obj\x86\Debug\ekrem_form1_WepBrowser.exe
+D:\FORM\ekrem_form1_WepBrowser\ekrem_form1_WepBrowser\obj\x86\Debug\ekrem_form1_WepBrowser.pdb
+D:\FORM\ekrem_form1_WepBrowser\ekrem_form1_WepBrowser\bin\Debug\ekrem_form1_WepBrowser.exe
+D:\FORM\ekrem_form1_WepBrowser\ekrem_form1_WepBrowser\bin\Debug\ekrem_form1_WepBrowser.pdb
+D:\FORM\ekrem_form1_WepBrowser\ekrem_form1_WepBrowser\obj\x86\Debug\ekrem_form1_WepBrowser.Form1.resources
+D:\FORM\ekrem_form1_WepBrowser\ekrem_form1_WepBrowser\obj\x86\Debug\ekrem_form1_WepBrowser.Properties.Resources.resources
+D:\FORM\ekrem_form1_WepBrowser\ekrem_form1_WepBrowser\obj\x86\Debug\ekrem_form1_WepBrowser.csprojResolveAssemblyReference.cache
+D:\FORM\ekrem_form1_WepBrowser\ekrem_form1_WepBrowser\obj\x86\Debug\ekrem_form1_WepBrowser.csproj.GenerateResource.Cache
